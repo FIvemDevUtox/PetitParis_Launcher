@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetitParis_Launcher", "PetitParis_Launcher\PetitParis_Launcher.csproj", "{F4E20EDF-B70B-45BE-B032-20684B13FB70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4E20EDF-B70B-45BE-B032-20684B13FB70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E20EDF-B70B-45BE-B032-20684B13FB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E20EDF-B70B-45BE-B032-20684B13FB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E20EDF-B70B-45BE-B032-20684B13FB70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54C1C694-6BF2-4ED8-8175-99A58DFB57DD}
+	EndGlobalSection
+EndGlobal
